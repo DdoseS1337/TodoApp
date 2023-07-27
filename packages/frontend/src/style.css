@@ -1,0 +1,33 @@
+html {
+  overflow: scroll;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  height: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+#root {
+  height: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent; /* make scrollbar transparent */
+}
+
+iframe {
+  display: none;
+}
+
+.swiper {
+  left: 125px;
+  overflow: visible;
+}
