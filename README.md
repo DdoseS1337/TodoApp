@@ -55,4 +55,3 @@ link: https://stackoverflow.com/questions/36910592/enabling-eslint-on-typescript
 - _Pagination differently on different devices. Desktop - button pagination, Tablet - horizontal scroll pagination, Mobile - vertical scroll pagination_
 
 
-```
